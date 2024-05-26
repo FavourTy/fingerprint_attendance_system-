@@ -42,7 +42,7 @@ This project is designed to streamline attendance taking in educational settings
 
 ## Contributions
 
-Contributions to this project are welcome. Please fork this repository and submit a pull request with your proposed fancyanges.
+Contributions to this project are welcome. Please fork this repository and submit a pull request with your proposed fancyanges❤🎉
 
 ## License
 
